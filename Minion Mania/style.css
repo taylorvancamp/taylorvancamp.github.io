@@ -1,0 +1,16 @@
+.body {
+    background-color:cornsilk;
+    height: 100%;
+}
+
+.navbar {
+     background-color: #23395d;
+}
+
+#logo {
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 30%;
+}
